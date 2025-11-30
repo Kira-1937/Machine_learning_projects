@@ -1,0 +1,88 @@
+# ======================
+# Python bytecode
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ======================
+# Virtual environments
+# ======================
+venv/
+env/
+.venv/
+
+# ======================
+# Jupyter Notebook
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# Data files
+# ======================
+*.csv
+*.tsv
+*.json
+*.parquet
+*.pkl
+*.xlsx
+*.xls
+*.zip
+*.txt
+*.tar.gz
+*.h5
+*.hdf5
+*.txt
+*.zip
+
+# ======================
+# ML model files
+# ======================
+*.joblib
+*.sav
+*.pth
+*.pt
+
+# ======================
+# Large ML artifacts
+# ======================
+logs/
+outputs/
+runs/
+models/
+
+# ======================
+# System files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# IDE files
+# ======================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ======================
+# Environment variables / config files
+# ======================
+.env
+*.env
+
+# ======================
+# OS / Mac specific
+# ======================
+desktop.ini
+
+
+# Data / intermediate CSVs
+*.csv
+*.tsv
+*.xlsx
+*.zip
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
